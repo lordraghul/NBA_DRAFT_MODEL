@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lyesw/Downloads/MP_DATA/mlruns/0/5f5a14ebb9544044929d1da64f553a12/artifacts
+end_time: 1755285448632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f5a14ebb9544044929d1da64f553a12
+run_name: LogisticRegression_best_precisiongs_20250815_211722
+run_uuid: 5f5a14ebb9544044929d1da64f553a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755285442462
+status: 3
+tags: []
+user_id: lyesw

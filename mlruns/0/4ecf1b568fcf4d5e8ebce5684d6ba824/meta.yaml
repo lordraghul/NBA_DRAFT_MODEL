@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lyesw/Downloads/MP_DATA/mlruns/0/4ecf1b568fcf4d5e8ebce5684d6ba824/artifacts
+end_time: 1755285364171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ecf1b568fcf4d5e8ebce5684d6ba824
+run_name: SVM_best_recallgs_20250815_211556
+run_uuid: 4ecf1b568fcf4d5e8ebce5684d6ba824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755285356884
+status: 3
+tags: []
+user_id: lyesw

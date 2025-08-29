@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lyesw/Downloads/MP_DATA/mlruns/0/6561038018564b58a5f37892d6ced05f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6561038018564b58a5f37892d6ced05f
+run_name: bald-mink-446
+run_uuid: 6561038018564b58a5f37892d6ced05f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755285744350
+status: 1
+tags: []
+user_id: lyesw

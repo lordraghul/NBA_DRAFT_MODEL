@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lyesw/Downloads/MP_DATA/mlruns/0/e864ec3b0b2e42bb8c1b6246902f9faa/artifacts
+end_time: 1755285394793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e864ec3b0b2e42bb8c1b6246902f9faa
+run_name: LogisticRegression_best_recallgs_20250815_211627
+run_uuid: e864ec3b0b2e42bb8c1b6246902f9faa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755285387683
+status: 3
+tags: []
+user_id: lyesw

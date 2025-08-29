@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lyesw/Downloads/MP_DATA/mlruns/0/b77725a2621b428b953240bf0d23ba35/artifacts
+end_time: 1755284732182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b77725a2621b428b953240bf0d23ba35
+run_name: SVM_best_precisionrs_20250815_210526
+run_uuid: b77725a2621b428b953240bf0d23ba35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755284726350
+status: 3
+tags: []
+user_id: lyesw

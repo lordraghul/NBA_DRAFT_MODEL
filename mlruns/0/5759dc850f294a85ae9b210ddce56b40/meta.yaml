@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lyesw/Downloads/MP_DATA/mlruns/0/5759dc850f294a85ae9b210ddce56b40/artifacts
+end_time: 1755285199030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5759dc850f294a85ae9b210ddce56b40
+run_name: RandomForest_best_recallgs_20250815_211318
+run_uuid: 5759dc850f294a85ae9b210ddce56b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755285198859
+status: 4
+tags: []
+user_id: lyesw

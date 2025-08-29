@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lyesw/Downloads/MP_DATA/mlruns/0/dad89c84931f436995911801bc664492/artifacts
+end_time: 1755285387286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dad89c84931f436995911801bc664492
+run_name: XGBoost_best_recallgs_20250815_211620
+run_uuid: dad89c84931f436995911801bc664492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755285380966
+status: 3
+tags: []
+user_id: lyesw
